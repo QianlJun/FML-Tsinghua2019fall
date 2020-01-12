@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Author: QianJun
-# File Name: Doubel_Duel_DQN_script
+# File Name: Doubel_Duel_DQN_script.py
 # Created Time:Sat 11 Jan 2020 10:24:45 PM CST
 
 from __future__ import division
